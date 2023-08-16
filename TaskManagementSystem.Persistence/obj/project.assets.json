@@ -2943,11 +2943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
+      "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
       "projectName": "TaskManagementSystem.Persistence",
-      "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
+      "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\obj\\",
+      "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2965,8 +2965,8 @@
             "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Application\\TaskManagementSystem.Application.csproj": {
               "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Application\\TaskManagementSystem.Application.csproj"
             },
-            "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj": {
-              "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj"
+            "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj": {
+              "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj"
             }
           }
         }

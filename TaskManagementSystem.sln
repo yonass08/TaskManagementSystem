@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Applic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Persistence", "TaskManagementSystem.Persistence\TaskManagementSystem.Persistence.csproj", "{DA443CAB-D199-46BF-AABC-A336852200B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Api", "TaskManagementSystem.Api\TaskManagementSystem.Api.csproj", "{C08EC8C1-7794-42F6-BBBB-06F4CDC24A29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{DA443CAB-D199-46BF-AABC-A336852200B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA443CAB-D199-46BF-AABC-A336852200B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA443CAB-D199-46BF-AABC-A336852200B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08EC8C1-7794-42F6-BBBB-06F4CDC24A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08EC8C1-7794-42F6-BBBB-06F4CDC24A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08EC8C1-7794-42F6-BBBB-06F4CDC24A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08EC8C1-7794-42F6-BBBB-06F4CDC24A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

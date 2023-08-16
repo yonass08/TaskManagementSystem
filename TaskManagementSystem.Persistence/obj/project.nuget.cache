@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7XRy1ponkcZSGzpcbsYTyKPhMTknmd3G39u2MPewLqQ+fLAVq9NsCG5Vi9dwxMXxz9JhvKzOx1MIJJ54f0OPQ==",
+  "dgSpecHash": "tX+HwC1RHWE1JAHx7T8iyP8P211pELilTK4kL25iFgWBkx0ON30YlIElIwnUo51AlY+5YfScywxHY1gQxeB5qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
+  "projectFilePath": "c:\\Users\\dell\\OneDrive\\Desktop\\Assessment\\TaskManagementSystem\\TaskManagementSystem.Persistence\\TaskManagementSystem.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

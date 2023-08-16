@@ -8,6 +8,8 @@ public class Project: BaseDomainEntity
 
     public int OwnerId {get; set;}
 
-     public  ICollection<Task> Tasks { get; set; }
+    public  ICollection<Task> Tasks { get; set; }
+    public  ICollection<User> Users { get; set; }
+
 
 }

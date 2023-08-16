@@ -12,9 +12,10 @@ public class Task: BaseDomainEntity
 
     public Status Status { get; set; } = Status.NotStarted;
 
-    public int ProjectID {get; set;}
+    public int ProjectId {get; set;}
 
     public Project Project {get; set;}
+    public User User {get; set;}
 
 
 }
